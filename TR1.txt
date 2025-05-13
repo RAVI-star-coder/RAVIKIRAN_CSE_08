@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Hello Folks! Most Important Topics In DevOps Are (1) GIT (2) GITHUB
+(3) EC2 (4) Maven (5) Jenkins (6) Tomcat (7) Dockers (8) Kubernetes
+(9) Ansible (10) Terraform (11) AWS (12) Grafana (13) Prometheus
+(14) Projects. Collect As Much Information As Possible From Everywhere.
+Bravo.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
