@@ -1,0 +1,7 @@
+###################################################################################
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Hi Folks! Today we will learn difference between GIT Pull and GIT Fetch Commands. I 
+hope we will be having a lot of practise doing these commands and have an idea of 
+the difference between them. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+###################################################################################
