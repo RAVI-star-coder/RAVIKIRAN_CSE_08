@@ -1,0 +1,4 @@
+#################################################################################################
+Hello Folks! Welcome to Git Pull And Git Pull --rebase commands tutorial and exercises.Practise
+well. Do a lot of practise and learn well.
+#################################################################################################
